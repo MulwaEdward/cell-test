@@ -15,12 +15,12 @@ body { font-family: Arial; background: #f0f8ff; padding: 20px; }
 <body>
 <h1>Day 1: Cellpose Installed & First Segmentation</h1>
   <p>Downloaded sample AVI from Drive. Ran basic Cellpose on frame 1. See screenshot!</p>
-<img src="day1-segment.png" alt="Cell masks">
+<img src="image.png" alt="Cell masks">
   <table>
     <tr><th>Frame</th><th>Cells Found</th><th>Avg Area</th></tr>
     <tr><td>1</td><td>25</td><td>120px</td></tr>
   </table>
-  <p>Next: Add 4-class detection. <a href="https://drive.google.com/drive/ABC123">Day 1 Drive Folder</a></p>
+  <p>Next: Add 4-class detection. <a href="https://drive.google.com/drive/folders/17uJt_3K5HXSobFC3iUsJ9fzCOpnctcYG?usp=sharing">Day 1 Drive Folder</a></p>
 
 </body>
 </html>
